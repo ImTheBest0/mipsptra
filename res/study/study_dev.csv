@@ -1,0 +1,6 @@
+n,time_highs,optimal_highs,obj_highs,time_cbc,optimal_cbc,obj_cbc
+6,0,1,3,1,1,3
+8,0,1,4,0,1,4
+10,0,1,5,1,1,5
+12,2,1,6,28,1,6
+14,8,1,7,140,1,7
