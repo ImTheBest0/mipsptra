@@ -1,3 +1,5 @@
+# STS MIP Project
+## How to run
 ### Install requirements
 ```bash
 pip install -r requirements.txt
