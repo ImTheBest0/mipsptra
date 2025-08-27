@@ -19,4 +19,5 @@ python scripts/run_study.py
 
 # Results:
 JSON files in res/MIP/
+
 CSV + plot → res/study/  (in case of runnning the study file)
