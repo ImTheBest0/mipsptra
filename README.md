@@ -2,7 +2,6 @@
 # Sports Tournament Scheduling (MIP)
 This project implements a Mixed-Integer Programming (MIP) model for the Sports Tournament Scheduling problem.  
 The model is built in **Python with PuLP** and can be solved using **CBC**or **HiGHS**.
-## How to run
 ### Install requirements
 ```bash
 pip install -r requirements.txt
